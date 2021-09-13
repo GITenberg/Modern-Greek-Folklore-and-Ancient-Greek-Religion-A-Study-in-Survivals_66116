@@ -1,5 +1,8 @@
 _repo: Modern-Greek-Folklore-and-Ancient-Greek-Religion-A-Study-in-Survivals_66116
-_version: 0.1.0
+_version: 0.2.0
+covers:
+- cover_type: archival
+  image_path: 66116-h/images/cover.jpg
 creator:
   author:
     agent_name: Lawson, J. C. (John Cuthbert)
@@ -9,6 +12,8 @@ creator:
     gutenberg_agent_id: '53641'
     url: http://www.gutenberg.org/2009/agents/53641
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/66116#Modern-Greek-Folklore-and-Ancient-Greek-Religion-A-Study-in-Survivals
 gutenberg_issued: '2021-08-23'
 identifiers:
   gutenberg: '66116'
