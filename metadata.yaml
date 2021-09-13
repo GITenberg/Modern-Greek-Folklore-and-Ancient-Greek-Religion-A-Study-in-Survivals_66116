@@ -1,0 +1,27 @@
+_repo: Modern-Greek-Folklore-and-Ancient-Greek-Religion-A-Study-in-Survivals_66116
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Lawson, J. C. (John Cuthbert)
+    alias: Lawson, John Cuthbert
+    birthdate: 1874
+    deathdate: 1935
+    gutenberg_agent_id: '53641'
+    url: http://www.gutenberg.org/2009/agents/53641
+description: ''
+gutenberg_issued: '2021-08-23'
+identifiers:
+  gutenberg: '66116'
+  lccn: a10000523
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Mythology, Greek'
+- !lcsh 'Greece -- Religion'
+- !lcc 'GR'
+- !lcsh 'Folklore -- Greece'
+- GITenberg
+title: 'Modern Greek Folklore and Ancient Greek Religion: A Study in Survivals'
+url: http://www.gutenberg.org/ebooks/66116
